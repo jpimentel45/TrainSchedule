@@ -1,6 +1,6 @@
 # TrainSchedule
-<hr>
-#Requirements:
+
+# Requirements:
 -HTML
 -JS
 -jQuery
